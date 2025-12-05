@@ -27,12 +27,10 @@ The telecommunications industry faces significant revenue loss due to customer a
 ### 1. Customer Profile & Demographics
 *An overview of customer distribution by tenure, gender, and subscription type.*
 ![Customer Profile Dashboard](dashboard_profile.png)
-*(Note: Replace this text with the actual path to your uploaded image if different)*
 
 ### 2. Customer Risk & Churn Analysis
 *Deep dive into financial risks, contract implications, and payment methods.*
 ![Risk Analysis Dashboard](dashboard_risk.png)
-*(Note: Replace this text with the actual path to your uploaded image if different)*
 
 ## 🔍 Key Findings
 Based on the diagnostic analysis, the following trends were identified:
@@ -59,5 +57,3 @@ To forecast future churn, a Logistic Regression model was developed.
 * **Python (Scikit-Learn):** Data Preprocessing, Logistic Regression Modeling.
 * **Excel:** Initial data inspection.
 
----
-*This project was completed as part of the PwC Power BI/Tableau Virtual Internship on Forage.*
