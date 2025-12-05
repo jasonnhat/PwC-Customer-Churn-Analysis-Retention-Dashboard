@@ -26,12 +26,12 @@ The telecommunications industry faces significant revenue loss due to customer a
 ## 📊 Dashboard Visuals
 ### 1. Customer Profile & Demographics
 *An overview of customer distribution by tenure, gender, and subscription type.*
-![Customer Profile Dashboard](image_ebc806.png)
+![Customer Profile Dashboard](dashboard_profile.png)
 *(Note: Replace this text with the actual path to your uploaded image if different)*
 
 ### 2. Customer Risk & Churn Analysis
 *Deep dive into financial risks, contract implications, and payment methods.*
-![Risk Analysis Dashboard](image_ebc83d.png)
+![Risk Analysis Dashboard](dashboard_risk.png)
 *(Note: Replace this text with the actual path to your uploaded image if different)*
 
 ## 🔍 Key Findings
