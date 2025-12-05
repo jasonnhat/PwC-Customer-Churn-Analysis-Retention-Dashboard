@@ -1,7 +1,6 @@
 # 📊 PwC Customer Churn Analysis & Retention Dashboard
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📖 Project Overview
@@ -54,6 +53,5 @@ To forecast future churn, a Logistic Regression model was developed.
 
 ## 🛠 Tools Used
 * **Tableau Public:** Dashboarding, Calculated Fields, LOD Expressions, Action Filters.
-* **Python (Scikit-Learn):** Data Preprocessing, Logistic Regression Modeling.
 * **Excel:** Initial data inspection.
 
